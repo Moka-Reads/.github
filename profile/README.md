@@ -1,7 +1,11 @@
 # MoKa Reads
 
-MoKa Reads is different from your typical education platform. It is a revolutionary platform with a specific goal - to provide open-source educational materials and publications. The focus of this platform is programming, intending to empower learners and enthusiasts by delivering high-quality resources that are easily accessible and freely available. The name MoKa Reads is derived from the popular espresso-based drink Mocha, symbolizing the passion and addiction shared by programmers worldwide - coffee!
+The plan of MoKa Reads is to serve as a comprehensive platform that aims to inform, conduct research, and generate open educational content in the field of programming. Our primary objective is to generate a diverse range of research papers, educational resources, and courses that enable institutions to adopt and adapt these materials. By doing so, we aim to promote sustainability, foster increased choice in learning, and create a sense of liberation in an environment often constrained by copyright restrictions.
 
-By embracing an open-source approach, MoKa Reads eliminates traditional barriers and limitations associated with educational materials. The platform encourages collaboration and knowledge sharing among programmers, educators, and learners, creating a vibrant community dedicated to advancing programming skills. MoKa Reads offers educational content covering various programming languages, frameworks, and concepts. From beginner-level tutorials to advanced coding techniques, the platform caters to learners of all proficiency levels. The content is carefully curated to ensure accuracy, relevance, and practicality in real-world scenarios.
+In addition to the aforementioned goals, MoKa Reads also seeks to foster collaboration and community engagement among learners, educators, and industry professionals. Through interactive forums, workshops, and networking opportunities, we aim to facilitate knowledge sharing and create a vibrant ecosystem that encourages continuous growth and innovation. Furthermore, we aim to provide a framework for these educational contents to be freely available, with the exception of publications that will be sold under affordable pricing.
+
+The name MoKa Reads is derived from the popular espresso-based drink Mocha, symbolizing the passion and addiction shared by programmers worldwide - coffee!
+
+
 
 
